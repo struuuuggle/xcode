@@ -42,12 +42,12 @@
 	<string>1 1 1 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
 	<string>0.266667 0.278431 0.352941 1</string>
+	<key>DVTCursor</key>
+	<integer>2</integer>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.545098 0.913725 0.992157 1</string>
 	<key>DVTFontAndColorVersion</key>
 	<integer>1</integer>
-	<key>DVTFontSizeModifier</key>
-	<integer>2</integer>
 	<key>DVTLineSpacing</key>
 	<real>1.1000000238418579</real>
 	<key>DVTMarkupTextBackgroundColor</key>
@@ -55,37 +55,37 @@
 	<key>DVTMarkupTextBorderColor</key>
 	<string>0.253186 0.25699 0.288836 1</string>
 	<key>DVTMarkupTextCodeFont</key>
-	<string>SourceCodeProForPowerline-Regular - 13.0</string>
+	<string>SourceCodeProForPowerline-Regular - 12.0</string>
 	<key>DVTMarkupTextEmphasisColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
-	<string>.SFNS-RegularItalic - 13.0</string>
+	<string>.SFNS-RegularItalic - 12.0</string>
 	<key>DVTMarkupTextInlineCodeColor</key>
 	<string>0.877929 0.872979 0.878041 0.7</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.384314 0.447059 0.643137 1</string>
 	<key>DVTMarkupTextLinkFont</key>
-	<string>.SFNS-Regular - 13.0</string>
+	<string>.SFNS-Regular - 12.0</string>
 	<key>DVTMarkupTextNormalColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextNormalFont</key>
-	<string>.SFNS-Regular - 13.0</string>
+	<string>.SFNS-Regular - 12.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>0.877929 0.872979 0.878041 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.SFNS-Regular - 17.4</string>
+	<string>.SFNS-Regular - 16.8</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.SFNS-Regular - 28.4</string>
+	<string>.SFNS-Regular - 28.8</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.SFNS-Regular - 21.8</string>
+	<string>.SFNS-Regular - 21.6</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextStrongFont</key>
-	<string>.SFNS-Bold - 13.0</string>
+	<string>.SFNS-Bold - 12.0</string>
 	<key>DVTScrollbarMarkerAnalyzerColor</key>
 	<string>0.403922 0.372549 1 1</string>
 	<key>DVTScrollbarMarkerBreakpointColor</key>
@@ -107,7 +107,7 @@
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
 	<string>0.15491 0.161222 0.208069 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>1 1 1 1</string>
+	<string>0.313353 0.978147 0.483828 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.496379 0.5 0.5 1</string>
 	<key>DVTSourceTextSelectionColor</key>
@@ -125,47 +125,47 @@
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.384314 0.447059 0.643137 1</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>0.313726 0.980392 0.482353 1</string>
+		<string>0.710824 0.554991 0.940036 1</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>0.362946 0.846428 0.998966 1</string>
+		<string>0.710824 0.554991 0.940036 1</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0.313725 0.980392 0.482353 1</string>
+		<string>0.36036 0.851106 0.99897 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.993219 0.670779 0.325461 1</string>
+		<string>0.36036 0.851106 0.99897 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.149984 0.75748 0.318421 1</string>
+		<string>0.313725 0.980392 0.482353 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.993219 0.670779 0.325461 1</string>
+		<string>0.36036 0.851106 0.99897 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.149984 0.75748 0.318421 1</string>
+		<string>0.313725 0.980392 0.482353 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.993219 0.670779 0.325461 1</string>
+		<string>0.309206 0.963116 0.479896 1</string>
 		<key>xcode.syntax.identifier.macro</key>
 		<string>0.945098 0.980392 0.54902 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
 		<string>0.945098 0.980392 0.54902 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.313725 0.980392 0.482353 1</string>
+		<string>0.309206 0.963116 0.479896 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.993219 0.670779 0.325461 1</string>
+		<string>0.36036 0.851106 0.99897 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0.313725 0.980392 0.482353 1</string>
+		<string>0.742685 0.575986 0.974449 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.993219 0.670779 0.325461 1</string>
+		<string>0.36036 0.851106 0.99897 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>1 0.47451 0.776471 1</string>
 		<key>xcode.syntax.mark</key>
-		<string>0.965525 0.966426 0.936183 1</string>
+		<string>0.965918 0.966505 0.935525 1</string>
 		<key>xcode.syntax.markup.code</key>
 		<string>0.665 0.052 0.569 1</string>
 		<key>xcode.syntax.number</key>
 		<string>0.741176 0.576471 0.976471 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.972549 0.972549 0.94902 1</string>
+		<string>0.877929 0.872979 0.878041 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.947246 0.982656 0.548335 1</string>
+		<string>0.945098 0.980392 0.54902 1</string>
 		<key>xcode.syntax.string</key>
-		<string>0.956863 0.976471 0.615686 1</string>
+		<string>0.94288 0.982419 0.547705 1</string>
 		<key>xcode.syntax.url</key>
 		<string>0.384314 0.447059 0.643137 1</string>
 	</dict>
@@ -176,9 +176,9 @@
 		<key>xcode.syntax.character</key>
 		<string>SourceCodeProForPowerline-Regular - 13.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>SourceCodeProForPowerline-MediumItalic - 13.0</string>
+		<string>SourceCodeProForPowerline-Regular - 13.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>SourceCodeProForPowerline-Medium - 13.0</string>
+		<string>SourceCodeProForPowerline-Regular - 13.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>SourceCodeProForPowerline-Bold - 13.0</string>
 		<key>xcode.syntax.declaration.other</key>
